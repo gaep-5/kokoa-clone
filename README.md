@@ -1,3 +1,3 @@
-# Kokoa Clone 2023
+# Kokoa Clone 2023 Update
 
-CSS got so mush better!
+HTML & CSS are so mush better!
